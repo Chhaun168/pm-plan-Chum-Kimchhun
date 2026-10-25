@@ -1,0 +1,11 @@
+id,name_or_group,role,category,interest,influence,interest_level,expectation
+S01,Head of the IT department,Sponsor,sponsor,"A reusable quiz platform to save marking time and show department innovation",H,H,"MVP demo in week 7 and a pilot with 50 students in week 14 within 200 USD cash"
+S02,Supervising lecturer,Project manager,pm,"Successful project delivery within 14 weeks and educational outcomes for team",H,H,"Weekly progress reports and working features delivered according to schedule"
+S03,Student team (4 developers),Developers and testers,team,"Gain software engineering experience and complete course requirements",M,H,"Clear requirements and guidance from PM to complete tasks on time"
+S04,Pilot students (50),End users,user,"Smooth quiz experience with instant feedback during live sessions",L,M,"A responsive mobile-friendly interface with real-time score updates"
+S05,Department Instructors,Course authors,user,"Efficient tool for authoring quizzes and reduced grading workload",M,H,"Easy-to-use quiz creator and exportable quiz results to CSV/PDF"
+S06,IT operations (VPS admin),System maintainer,operations,"No surprises at go-live and straightforward maintenance",M,M,"A deployment runbook and docker-compose.prod.yml configuration 2 weeks before pilot"
+S07,Campus network administrator,Infrastructure engineer,operations,"Stable network traffic with no proxy issues caused by WebSockets",M,L,"Early notice on WebSocket fallbacks to avoid blocking campus traffic"
+S08,Software Engineering lecturer,Academic evaluator,governance,"High quality software engineering practices applied by students",M,M,"Demonstration of proper project management baselines and documentation"
+S09,Data Protection Officer,Data privacy officer,governance,"Protection of student identities and secure local data storage",H,L,"A one-page data storage description before the pilot; holds veto power over pilot"
+S10,Faculty Management / Dean,Executive leadership,governance,"Departmental innovation and potential adoption across other faculties",H,L,"Successful execution of the pilot program without budget overruns"
